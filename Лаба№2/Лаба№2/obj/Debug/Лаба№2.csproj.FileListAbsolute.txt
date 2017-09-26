@@ -1,0 +1,7 @@
+F:\курс2\ООП\Лаба№2\Лаба№2\bin\Debug\Лаба№2.exe.config
+F:\курс2\ООП\Лаба№2\Лаба№2\bin\Debug\Лаба№2.exe
+F:\курс2\ООП\Лаба№2\Лаба№2\bin\Debug\Лаба№2.pdb
+F:\курс2\ООП\Лаба№2\Лаба№2\obj\Debug\Лаба№2.csprojResolveAssemblyReference.cache
+F:\курс2\ООП\Лаба№2\Лаба№2\obj\Debug\Лаба№2.csproj.CoreCompileInputs.cache
+F:\курс2\ООП\Лаба№2\Лаба№2\obj\Debug\Лаба№2.exe
+F:\курс2\ООП\Лаба№2\Лаба№2\obj\Debug\Лаба№2.pdb
